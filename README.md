@@ -35,6 +35,7 @@ Fail2Ban
 
 ![image](https://github.com/user-attachments/assets/3ab986bb-d075-46ae-a350-7c9864303e34)
 
+![image](https://github.com/user-attachments/assets/14c21817-3447-498b-8bed-d2ab6f20b6bc)
 
 
 
