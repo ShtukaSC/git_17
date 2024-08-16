@@ -22,8 +22,18 @@ Fail2Ban
 
 Не запускается(
 
-![image](https://github.com/user-attachments/assets/1e8b635e-1424-44a0-a460-40c2b6d48969)
+![image](https://github.com/user-attachments/assets/79058c63-5f57-4752-9e41-3925af353777)
+
 
 Установил rsyslog и вот такое пишет
 
 ![image](https://github.com/user-attachments/assets/73424aa0-2f9d-4a5c-be0f-236da2d0c42d)
+
+Поправил конфиг и вот, статус по-прежнему не active
+
+![image](https://github.com/user-attachments/assets/172b4ae1-ce38-448d-ae2a-c34d82fd18e6)
+
+![image](https://github.com/user-attachments/assets/b6dbcdf7-8602-4b87-b41a-a74efa3799bf)
+
+![image](https://github.com/user-attachments/assets/9f7a7481-78fb-4613-9dbf-2199443a3289)
+
