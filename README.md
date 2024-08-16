@@ -29,9 +29,15 @@ Fail2Ban
 
 ![image](https://github.com/user-attachments/assets/73424aa0-2f9d-4a5c-be0f-236da2d0c42d)
 
-Поправил конфиг и вот, статус по-прежнему не active
+На другой машинке, но при смене enabled на true статус не active
 
-![image](https://github.com/user-attachments/assets/172b4ae1-ce38-448d-ae2a-c34d82fd18e6)
+![image](https://github.com/user-attachments/assets/f67f7a77-bbdb-4c6a-b35a-fde15bd4e240)
 
-![image](https://github.com/user-attachments/assets/9f7a7481-78fb-4613-9dbf-2199443a3289)
+![image](https://github.com/user-attachments/assets/3ab986bb-d075-46ae-a350-7c9864303e34)
+
+
+
+
+
+
 
